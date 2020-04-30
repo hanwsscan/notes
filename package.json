@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hanwsscan/notes#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "underscore": "^1.9.1"
   }
 }
